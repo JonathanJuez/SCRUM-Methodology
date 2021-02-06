@@ -1,77 +1,71 @@
-﻿**Scrum™**
+Scrum™
+Purpose of SCRUM
 
-**Propósito de SCRUM**
+Develop complex products.
+Deliver complex products.
+Maintain complex products.
+Definition : it is a framework where several processes and techniques are used.
 
-![](Note%20Scrum.001.png)Desarrollar 
+It is composed of:
 
-Entregar                productos complejos
+Scrum Team and associated roles
+Events
+Artifacts
+Rules
+Improvement:
 
-Mantener 
+Product
+Equipment
+Work Environment
+Uses:
 
-**Definición**: es un marco en donde se emplean varios procesos y técnicas
+Research and identify viable markets, technologies, and product capabilities.
 
-**Este compuesto de:**
+Develop products and enhancements.
 
-- Equipo Scrum y roles asociados
-- Eventos
-- Artefactos
-- Reglas
+Launch products and enhancements, as often as many per day.
 
-**Mejora:** 
+Develop and maintain cloud (online, secure and on-demand) and other operating environments for product use.
 
-- Producto
-- Equipo
-- Entorno de trabajo
+environments for product use
 
-**Usos:** 
+Maintain and renew products.
 
-- Investigar e identificar mercados, tecnologías y capacidades de producto viables
-- Desarrollar productos y mejoras
-- Lanzar productos y mejoras, con tanta frecuencia como muchos al día
-- Desarrollar y mantener la nube (en línea, segura y a la carta) y otros entornos 
+Areas of action: software, hardware, embedded software, interactive function networks, autonomous vehicles, schools, government, marketing, management of the functioning of organizations.
 
-operativos para el uso de los productos
+SCRUM theory: Scrum is based on empirical process control theory, or empiricism. Scrum employs an iterative and incremental approach to optimize predictability and control risk.
 
-- Mantener y renovar los productos
+It has 3 pillars that underpin any application of empirical process control:
 
-**Áreas de acción**: software, hardware, software embebido, redes de función interactiva, vehículos autónomos, escuelas, gobierno, marketing, gestión del funcionamiento de las organizaciones
+Transparency: Process visible to those responsible for the outcome.
+Inspection: They must inspect artifacts and sprint progress to detect undesirable variations.
+Adaptation: When deviating from acceptable limits, the process must be adjusted again.
+Scrum Events
 
-**Teoría SCRUM**: Scrum se basa en la teoría de control de procesos empíricos, o empirismo. Scrum emplea un enfoque iterativo e incremental para optimizar la previsibilidad y controlar el riesgo. 
+Sprint Planning
+Daily Scrum
+Sprint Review
+Sprint Retrospective
 
-Posee 3 pilares que sustentan toda aplicación del control empírico de procesos: 
-
-- Transparencia: Proceso visible para los responsables del resultado
-- Inspección: Deben inspeccionar artefactos y progreso del sprint para detectar variaciones indeseables
-- Adaptación: cuando se desvía de los limites aceptables, se debe ajustar nuevamente el proceso
-
-**Eventos Scrum**
-
-- Planificación del Sprint 
-- Scrum diario 
-- Revisión de Sprint 
-- Retrospectiva del Sprint
-
-**SCRUM está compuesto por:** 
+**SCRUM is composed:** 
 
 |<p></p><p></p><p></p><p>**ROLES**</p><p></p>|PRODUCT OWNER|SCRUM MASTER|TEAM MEMBERS|
 | :- | :-: | :-: | :-: |
-||<p>- Representa al cliente</p><p>- Visión del producto</p><p>- Determina prioridades</p>|<p>- Facilitador </p><p>- Potencia productividad</p><p>- Garantiza buen uso del SCRUM</p>|<p>- Realiza el proyecto</p><p>- Equipo autoorganizado</p><p>- Equipo entre 5-9 personas</p><p></p>|
+||<p>- Represent the customer</p><p>- Product Vision</p><p>- Determines priorities</p>|<p>- Facilitator </p><p>- Boosts productivity</p><p>- Ensure good use of SCRUM</p>|<p>- Project realization</p><p>- Self organization  team</p><p>- Teamm between 5-9 people</p><p></p>|
 
-**Proceso SCRUM**
+SCRUM Process
 
-El proceso SCRUM se puede dividir en 3 partes 
+The SCRUM process can be divided into 3 parts:
 
-1. ITERACION 
-1. EJECUCION 
-1. INSPECCION Y ADAPTACION 
+ITERATION
+EXECUTION
+INSPECTION AND ADAPTATION
+The following is a brief description of the process:
 
-A continuación, una breve descripción del proceso:
+Iteration planning is the first stage, and this in turn has two moments, in the first moment, the project managers meet with the customer, the customer presents the list of requirements and priorities. Based on the requirements, the two parties design the iterations and define the delivery deadlines.
 
-La planificación de la iteración es la primera etapa, y esta tiene a su vez dos momentos, en el primer momento, los responsables del proyecto se reúnen con el cliente, el cliente le presenta la lista de requisitos y prioridades. Con base a los requerimientos, las dos partes diseñan las iteraciones, y definen los plazos de entrega.
+After the first stage, we proceed to enter the sprint, which would be the second stage, the execution of the work team, daily meetings are held (which are 15 minutes maximum), to share the evolution of the designated tasks, obstacles that have been found during the execution, and in turn design possible adaptations or solutions to the failures found, the scrum-master ensures that his collaborators do not lower their productivity.
 
-` `Seguida de la primera etapa se procedería a ingresar al sprint la cual sería la segunda etapa, ejecución el equipo de trabajo, diariamente se realizan reuniones (las cuales son de 15 minutos máximo), para poner en común la evolución de las tareas designadas, obstáculo que se han encontrado durante la ejecución, y a su vez diseñar posibles adaptaciones o soluciones a las fallas encontradas, el scrum-máster se encarga de que sus colaboradores no bajen su productividad.
+At the end of the sprint, we obtain a product that is potentially deployable in production. At this point, two types of meetings are considered: Sprint review and sprint retrospective. This would be our third stage inspection and adaptation; this stage takes place on the last day of the process. the team in charge of the product owner presents the results to the customer. Based on the list of priorities delivered in the first instance of the project, taking into account the changes in the context and the effectiveness of the results, the customer will decide if it is sufficient or if it should be adapted to new priorities; If the results are satisfactory, the team holds a last meeting to evaluate the process, which would give way to the sprint retrospective (three hours maximum) in this phase the Scrum Team analyzes its way of working, the objectives that were achieved and those that were not, the problems that hindered the project, customer feedback and more variables that can be changed to improve the work of the team and again enter the planning cycle of the sprint.
 
-` `Finalmente acabado el sprint, obtenemos un producto potencialmente instalable en producción. En este punto se consideran dos tipos de reuniones: Sprint review y sprint retrospective. Esta seria nuestra tercera etapa inspección y adaptación, esta etapa tiene lugar el último día del proceso. el equipo de trabajo en cabeza del producto owner presenta al cliente los resultados. Con base a la lista de prioridades qué ha entregado en la primera instancia del proyecto, teniendo en cuenta los cambios en el contexto y la eficacia de los resultados, el cliente decidirá si es suficiente o si debe ser adaptado a nuevas prioridades; si los resultados son satisfactorios el equipo de trabajo realiza una última reunión, para evaluar lo que ha sido el proceso, lo que daría paso al sprint retrospective(tres horas como máximo) en esta fase el Scrum Team analiza su forma de trabajar, los objetivos que se consiguieron y los que no, los problemas que obstaculizaron al proyecto, el feedback del cliente y más variables que puedan cambiarse para mejorar el trabajo del equipo y nuevamente entraría al ciclo de planificación del sprint.
-
-El scrum es un proceso de la metodología ágil en el que se aplican una serie de buenas prácticas para trabajar en equipo y minimizar los riesgos del proyecto. Sus principales ventajas son el aumento de la productividad, la calidad y un seguimiento constante del proyecto de forma que, tanto los trabajadores como el cliente, puedan apreciar los avances.
-
+Scrum is an agile methodology process in which a series of good practices are applied to work as a team and minimize project risks. Its main advantages are increased productivity, quality, and constant monitoring of the project so that both workers and the customer can appreciate the progress.
