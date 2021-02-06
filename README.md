@@ -1,2 +1,2 @@
-# scrum
-Overview Scrum
+# SCRUM
+Overview Scrum methodology
